@@ -1,2 +1,2 @@
-# cs361-f24
+# CSCI 361:  Theory of Computation
 Course Webpage for CSCI 361: Fall 2024.
